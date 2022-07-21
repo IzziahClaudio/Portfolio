@@ -1,0 +1,18 @@
+/****************
+
+COMMEN
+
+*****************/
+
+body{
+    font-family: "monospace", sans-serif;
+}
+
+.font-primary{
+    color : #228B22
+}
+
+.title-icon{
+    font-size: 20px;
+    font-weight: bold; 
+}
