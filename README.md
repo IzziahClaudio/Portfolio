@@ -2,7 +2,7 @@
 
 This is a small project using HTML / CSS and Bootstrap. I will be using this to showcase my projects !
 
-[Live Heroku Deployment](https://portfolio-izziah.herokuapp.com/)
+[Live Replit Deployment](https://portfolio.izziahclaudio.repl.co)
 
 (![Screen Shot 2022-07-21 at 10 55 44 PM](https://user-images.githubusercontent.com/107664478/180352924-fd18ef74-f7a8-4d22-b095-43072a3cf675.png)
 
@@ -10,6 +10,7 @@ This is a small project using HTML / CSS and Bootstrap. I will be using this to 
 
 *HTML
 *CSS
+*JS
 
 ## Installation
 
